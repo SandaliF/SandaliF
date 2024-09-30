@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Hotel and Restaurant Management System](https://github.com/AdeeshaD2001/opal-system)
 
-- 🌱 I’m currently learning **NextJS,PostgreSQL**
+- 🌱 I’m currently learning **NextJS, PostgreSQL**
 
 - 📫 How to reach me **sandalif.21@cse.mrt.ac.lk**
 
