@@ -6,15 +6,15 @@
 <h1 align="center">Hi 👋, I'm Sandali Fernando</h1>
 <h3 align="center">Computer Science & Engineering Undergraduate</h3>
 
-- 🔭 I’m currently working on [Hotel and Restaurant Management System](https://github.com/AdeeshaD2001/opal-system)
+- 💻 Interested in Software Engineering & Data
 
-- 🌱 I’m currently learning **NextJS, PostgreSQL**
+- 🌱 I’m currently learning **SpringBoot and PowerBI**
 
 - 📫 How to reach me **sandalif.21@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandali-malshika-fernando/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandali-malshika-fernando/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandalif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandali-malshika-fernando/" height="30" width="40" /></a>
 <a href="https://fb.com/sandali fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandali fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/_.malshi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.malshi__" height="30" width="40" /></a>
 </p>
